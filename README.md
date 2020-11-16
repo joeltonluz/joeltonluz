@@ -1,5 +1,9 @@
-### Hi there 👋
+### E aeee... 👋
 
+## Me chamo Joelton Lino Luz
+
+Sou programador há 10 anos de linguagem compilada (Delphi), e hoje estou estudando a parte web, tais como:
+##
 <!--
 **joeltonluz/joeltonluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
