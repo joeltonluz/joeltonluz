@@ -4,6 +4,9 @@
 
 Sou programador há 10 anos de linguagem compilada (Delphi), e hoje estou estudando stack Javascript (NodeJs, React.JS e React Native)
 ##
+
+[![Joelton GitHub stats](https://github-readme-stats.vercel.app/api?username=joeltonluz&show_icons=true&theme=dracula)](https://github.com/joeltonluz/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeltonluz&hide=pascal&layout=compact)](https://github.com/joeltonluz/github-readme-stats)
+##
 <!--
 **joeltonluz/joeltonluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
