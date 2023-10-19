@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joeltonluz&layout=compact&langs_count=7&theme=gotham&hide=pascal"/>
 </div>
 
-## Tecnologias que eu uso no meu dia
+## Technologies that I use in my day
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,7 +22,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
 </div><br/>
 
-### Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+### Passionate about technology !!
 
 
 
